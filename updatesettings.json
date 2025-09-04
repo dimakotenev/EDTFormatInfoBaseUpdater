@@ -1,0 +1,34 @@
+{
+  "Git": {
+    "BranchName": "main",
+    "UseSSH": false,
+    "AccessToken": "",
+    "RepoURL": ""
+  },
+  "Database1C": {
+    "ServerName": "",
+    "ServerPort": 1540,
+    "RASPort": 1545,
+    "BaseName": "",
+    "AdminLogin": "Администратор",
+    "AdminPassword": "",
+    "AccessToken": "4321",
+    "Version": "8.3.26.1656",
+    "FileBaseDir": "",
+    "UpdateMode": 2,
+    "BlockStartDate": "",
+    "BlockStartTime": "1500",
+    "BlockEndDate": "",
+    "BlockEndTime": "1500",
+    "UseDateBlockTime": 0,
+    "FormatUpdate": "cf",
+    "ExtensionName": ""
+  },
+  "FileLocations": {
+    "EdtProjectDir": "",
+    "XMLFilesDir": "",
+    "RepoDir": "",
+    "DirEDTCLI": "",
+    "SRCCFolder": ""
+  }
+}
